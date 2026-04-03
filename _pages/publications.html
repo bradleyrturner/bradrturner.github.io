@@ -1,36 +1,39 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+layout: single
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Published
 
-{% include base_path %}
+**Narrative Affordances: What Stories Can and Cannot Do**
+*Academy of Management Annals*, 2025
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+A review of 40 years of management research theorizing what narratives can and cannot accomplish for core organizational functions — including sensemaking, legitimacy, and coordination — and the limits that constrain them.
 
+---
 
+## Under Review
 
+**Not All Good Stories Make Good Investments: Why Symbols Need Substance to Be Credible and Legitimating**
+
+Qualitative analysis of entrepreneur-investor interactions at three pitch events. Develops hypotheses about when stories strengthen versus undermine credibility — arguing that stories help or hurt depending on whether investors perceive them as complements or substitutes for evidence.
+
+**[Title withheld for review] — Persuasion and Coordination in Financial Markets**
+*With Georg Rilinger (equal authorship)*
+
+Examines how activist short sellers structure narrative reports to catalyze stock sell-offs. Contrary to prior research, finds that effective reports are sprawling and rhetorically elaborate rather than concise. Identifies a tradeoff between communication structures that persuade versus those that coordinate investor behavior.
+
+---
+
+## Working Papers
+
+**Short Sellers as Strangers: Institutional Conditions of Outsider Innovation** *(working title)*
+*With Georg Rilinger*
+
+**From Defense to Offense: The De-Stigmatization of Dual-Use Entrepreneurship and Investing** *(working title)*
+*With Fiona Murray. Status: Data collection.*
+
+**Can Public Entrepreneurship Programs Create Jobs Outside of Dominant Ecosystems? Analysis of an Accelerator and Pitch Competition's Regional Impact.**
+*With Ethan Poskanzer. Status: Data collection.*
