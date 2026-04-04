@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=Source+Sans+3:wght@300;400;600&display=swap');
+
+/* ── FONTS ── */
+body, p, li, td, input {
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+h1, h2, h3, h4, .site-title {
+  font-family: 'Source Serif 4', Georgia, serif;
+}
+
+/* ── MASTHEAD / NAV ── */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: #a31f34 !important;
+  border-bottom: none !important;
+}
+
+.site-title {
+  color: #ffffff !important;
+  font-family: 'Source Serif 4', serif !important;
+  font-weight: 400 !important;
+}
+
+.site-title:hover {
+  color: rgba(255,255,255,0.75) !important;
+  text-decoration: none !important;
+}
+
+.greedy-nav a {
+  color: rgba(255,255,255,0.85) !important;
+  font-size: 0.82rem !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+}
+
+.greedy-nav a:hover,
+.greedy-nav .visible-links a:hover {
+  color: #ffffff !important;
+  border-bottom: 3px solid #ffffff !important;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #ffffff !important;
+}
+
+/* ── JOB MARKET BADGE ── */
+.jm-badge {
+  display: inline-block;
+  background-color: #8a8b8c;
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.75rem;
+  border-radius: 2px;
+  margin-bottom: 1.2rem;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+/* ── SIDEBAR ── */
+.author__name {
+  font-family: 'Source Serif 4', serif !important;
+  color: #1a1a1a !important;
+}
+
+.author__bio {
+  font-size: 0.82rem !important;
+  color: #555 !important;
+}
+
+.author__urls a {
+  color: #a31f34 !important;
+}
+
+.author__urls a:hover {
+  color: #7a1728 !important;
+}
+
+.author__avatar img {
+  border: 4px solid #e8e8e8 !important;
+  border-radius: 50% !important;
+  box-shadow: 0 0 12px rgba(0,0,0,0.08) !important;
+}
+
+/* ── HEADINGS ── */
+h1.page__title,
+h2, h3 {
+  color: #1a1a1a !important;
+  font-family: 'Source Serif 4', serif !important;
+  font-weight: 400 !important;
+}
+
+/* ── LINKS ── */
+a {
+  color: #a31f34 !important;
+}
+
+a:hover {
+  color: #7a1728 !important;
+}
+
+/* ── HORIZONTAL RULES ── */
+hr {
+  border-color: #e0e0e0 !important;
+}
