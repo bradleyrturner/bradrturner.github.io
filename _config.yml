@@ -23,7 +23,7 @@ repository               : "bradleyrturner/bradrturner.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/headshot.jpg"
+  avatar           : "https://bradleyrturner.github.io/images/headshot.jpg"
   name             : "Brad R. Turner"
   pronouns         : 
   bio              : "Doctoral Candidate in Economic Sociology · MIT Sloan"
