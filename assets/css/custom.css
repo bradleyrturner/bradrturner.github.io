@@ -4,7 +4,6 @@
 body, p, li, td, input {
   font-family: 'Source Sans 3', sans-serif;
 }
-
 h1, h2, h3, h4, .site-title {
   font-family: 'Source Serif 4', Georgia, serif;
 }
@@ -12,64 +11,32 @@ h1, h2, h3, h4, .site-title {
 /* ── MASTHEAD / NAV ── */
 .masthead,
 .masthead__inner-wrap,
-.greedy-nav,
-.greedy-nav .visible-links,
-.greedy-nav .visible-links li,
-.greedy-nav .visible-links li a,
-.site-title {
-  background: #a31f34 !important;
+.greedy-nav {
   background-color: #a31f34 !important;
   border-bottom: none !important;
 }
-
-.site-title,
-.site-title:visited {
+.site-title {
   color: #ffffff !important;
   font-family: 'Source Serif 4', serif !important;
   font-weight: 400 !important;
 }
-
 .site-title:hover {
   color: rgba(255,255,255,0.75) !important;
   text-decoration: none !important;
 }
-
 .greedy-nav a {
   color: rgba(255,255,255,0.85) !important;
   font-size: 0.82rem !important;
   letter-spacing: 0.05em !important;
   text-transform: uppercase !important;
 }
-
 .greedy-nav a:hover,
 .greedy-nav .visible-links a:hover {
   color: #ffffff !important;
   border-bottom: 3px solid #ffffff !important;
 }
-
 .greedy-nav .visible-links a:before {
   background: #ffffff !important;
-}
-
-.masthead {
-  box-shadow: none !important;
-  border: none !important;
-}
-
-.greedy-nav button {
-  background-color: #a31f34 !important;
-  color: #ffffff !important;
-}
-
-/* ── NAV LINKS RIGHT-ALIGNED ── */
-.greedy-nav {
-  display: flex !important;
-  align-items: center !important;
-}
-
-.greedy-nav .visible-links {
-  margin-left: auto !important;
-  flex: 0 0 auto !important;
 }
 
 /* ── JOB MARKET BADGE ── */
@@ -92,20 +59,16 @@ h1, h2, h3, h4, .site-title {
   font-family: 'Source Serif 4', serif !important;
   color: #1a1a1a !important;
 }
-
 .author__bio {
   font-size: 0.82rem !important;
   color: #555 !important;
 }
-
 .author__urls a {
   color: #a31f34 !important;
 }
-
 .author__urls a:hover {
   color: #7a1728 !important;
 }
-
 .author__avatar img {
   border: 4px solid #e8e8e8 !important;
   border-radius: 50% !important;
@@ -124,7 +87,6 @@ h2, h3 {
 a {
   color: #a31f34 !important;
 }
-
 a:hover {
   color: #7a1728 !important;
 }
@@ -132,6 +94,41 @@ a:hover {
 /* ── HORIZONTAL RULES ── */
 hr {
   border-color: #e0e0e0 !important;
+}
+
+/* ── NUCLEAR MASTHEAD FIX ── */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .visible-links li,
+.greedy-nav .visible-links li a,
+.site-title {
+  background: #a31f34 !important;
+  background-color: #a31f34 !important;
+}
+.greedy-nav .visible-links li a,
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+}
+.masthead {
+  box-shadow: none !important;
+  border: none !important;
+}
+.greedy-nav button {
+  background-color: #a31f34 !important;
+  color: #ffffff !important;
+}
+
+/* ── NAV LINKS RIGHT-ALIGNED ── */
+.greedy-nav {
+  display: flex !important;
+  align-items: center !important;
+}
+.greedy-nav .visible-links {
+  margin-left: auto !important;
+  flex: 0 0 auto !important;
 }
 
 /* ── HIDE IE WARNING BAR ── */
