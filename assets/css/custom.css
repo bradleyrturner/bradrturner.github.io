@@ -126,8 +126,3 @@ hr {
   display: none !important;
 }
 
-/* ── NAV LINKS RIGHT-ALIGNED ── */
-.greedy-nav .visible-links {
-  margin-left: auto !important;
-}
-
