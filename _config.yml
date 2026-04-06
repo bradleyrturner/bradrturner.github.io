@@ -13,9 +13,8 @@ darkmode                 : false
 title                    : "Brad R. Turner"
 title_separator          : "-"
 name                     : "Brad R. Turner"
-description              : "Doctoral candidate in Economic Sociology · MIT Sloan School of Management"
-url                      : "https://bradleyrturner.github.io"
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : "Doctoral candidate · MIT Sloan School of Management"
+url                      : "https://bradleyrturner.github.io"  # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bradleyrturner/bradrturner.github.io"
 
