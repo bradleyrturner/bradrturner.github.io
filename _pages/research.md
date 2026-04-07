@@ -14,7 +14,7 @@ A review of 40 years of management research theorizing what narratives can accom
 
 ---
 
-## Under Review
+## Preparing for Submission
 
 **Not All Good Stories Make Good Investments: Why Symbols Need Substance to Be Credible and Legitimating**  
 Qualitative analysis of 100 entrepreneur-investor interactions at three pitch events, focused on the concrete anecdotes in pitches and how investors respond to them. It analyzes the recurring narrative tropes that define the genre, demonstrating that the familiar Aha! moments and origin stories are less persuasive than more distinctive, detailed stories about personal commitment, customer problems, and product trials. Based on the lines of questions from investors, this paper develops hypotheses about when stories strengthen versus undermine credibility — arguing that it depends on whether investors perceive them as complements or substitutes for data and argument claims.
