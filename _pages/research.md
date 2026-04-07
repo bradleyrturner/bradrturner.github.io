@@ -10,7 +10,7 @@ author_profile: true
 **Narrative Affordances: What Stories Can and Cannot Do**  
 *Academy of Management Annals*, 2025  
 
-A review of 40 years of management research theorizing what narratives can and cannot accomplish for core organizational functions — including sensemaking, legitimacy, and coordination — and the limits that constrain them.
+A review of 40 years of management research theorizing what narratives can accomplish for core organizational functions — making meaning, persuading, sharing, and coordinating — and the limits that constrain them.
 
 ---
 
@@ -28,6 +28,8 @@ Examines how activist short sellers structure narrative reports to catalyze stoc
 
 **Institutionalized Strangers: How Activist Short Sellers Cultivate Outsiderness to Purvey Novel Information to the Market** *(working title)*  
 *With Georg Rilinger*
+
+Examines how activist short sellers cultivate and maintain outsider status as a strategic asset rather than a liability to overcome. Drawing on a 35-year case study (1990–2025), argues that these "institutionalized strangers" leverage technical expertise alongside deliberate markers of illegitimacy to preserve the functional autonomy needed to publish critical information on corporate misconduct that insiders cannot. Suggests that successful intervention in a field may depend not on assimilation but on a strategic hybridization of competence and behavioral defiance.
 
 ---
 
