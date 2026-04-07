@@ -8,12 +8,13 @@ author_profile: true
 ## MIT Sloan School of Management
 
 **Teaching Assistant** · 2020 – 2025  
-Courses in strategy, leadership, and research design. Served as TA for Sloan's EMBA Hackathon for three years, presenting to and mentoring executive MBA students.
+- Courses in strategy, leadership, and entrepreneurship.
+- Served as TA for Sloan's EMBA Hackathon for three years, presenting to and mentoring Executive MBA students.
 
 ## Syracuse University
 
-**Course Designer and Instructor** · 2019 - 2020
-Designed and taught an undergraduate elective at my alma mater.
+**Instructor** · 2019 - 2020  
+- Designed and taught an undergraduate elective for the Renée Crown University Honors Program.
 
 ---
 
