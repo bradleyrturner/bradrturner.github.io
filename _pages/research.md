@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published
 
-**[Narrative Affordances: What Stories Can and Cannot Do](https://journals.aom.org/doi/10.5465/annals.2023.0101)** 
+**[Narrative Affordances: What Stories Can and Cannot Do](https://journals.aom.org/doi/10.5465/annals.2023.0101)**  
 *Academy of Management Annals*, 2025  
 
 A review of 40 years of management research theorizing what narratives can accomplish for core organizational functions — making meaning, persuading, sharing, and coordinating — and the limits that constrain them.
