@@ -22,4 +22,4 @@ author_profile: true
 
 - MIT Graduate Teaching Certificate, 2022
 - Sloan Teaching Development Fellow, 2022 – 2023
-- Co-author, two Case Teaching Notes with Professor Ranjay Gulati (Harvard Business School)
+- Co-author, two Case Teaching Notes with Professor Ranjay Gulati (HBS)
